@@ -1,0 +1,374 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Substance of the arguments for and against the bill for prohibiting the exportation of woollen manufacture from Ireland to forreign parts deliver'd at the bar of the House of Lords : together with some remarks on a printed paper, entituled, Some thoughts on the said bill.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 32 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A61930</idno>
+            <idno type="STC">Wing S6109</idno>
+            <idno type="STC">ESTC R38327</idno>
+            <idno type="EEBO-CITATION">17307349</idno>
+            <idno type="OCLC">ocm 17307349</idno>
+            <idno type="VID">106359</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A61930)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 106359)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1103:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Substance of the arguments for and against the bill for prohibiting the exportation of woollen manufacture from Ireland to forreign parts deliver'd at the bar of the House of Lords : together with some remarks on a printed paper, entituled, Some thoughts on the said bill.</title>
+               </titleStmt>
+               <extent>[2], 16, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Atwood ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1698.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Wool industry --  Ireland.</term>
+               <term>Wool industry --  England.</term>
+               <term>Restraint of trade --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>Kate Allen</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>Kate Allen</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:106359:1" rendition="simple:additions"/>
+            <pb facs="tcp:106359:1" rendition="simple:additions"/>
+            <p>THE SUBSTANCE OF THE ARGUMENTS For and Againſt The BILL, FOR Prohibiting the EXPORTATION of Woollen Manufacture from <hi>Ireland</hi> to Forreign Parts.</p>
+            <p>
+               <hi>Deliver'd at the Bar of the Houſe of Lords.</hi>
+            </p>
+            <p>Together with Some Remarks on a Printed Paper, Entituled, <hi>Some Thoughts on the ſaid Bill.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Iohn Aſtwood,</hi> at his Printing-Houſe behind St. <hi>Chriſtophers Church</hi> in <hi>Thred-needle-ſtreet,</hi> the back<g ref="char:EOLhyphen"/>ſide of the <hi>Royal Exchange.</hi> 1698.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:106359:2" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:106359:2"/>
+            <head>The <hi>Subſtance</hi> of the <hi>Arguments</hi> for and againſt the BILL, for Prohibiting the Exportation of <hi>Woollen Manufacture</hi> from <hi>Ireland</hi> to Forreign Parts, <hi>&amp;c.</hi>
+            </head>
+            <div type="part">
+               <head>Againſt the <hi>BILL</hi> it was ſaid,</head>
+               <p n="1">I. THat this Bill paſſing would become a total Pro<g ref="char:EOLhyphen"/>hibition of the Exportation of Woollen Manu<g ref="char:EOLhyphen"/>factury from <hi>Ireland,</hi> becauſe the Bill prohi<g ref="char:EOLhyphen"/>bits it to all Forreign Parts; and the Duty upon it here in <hi>England</hi> is ſo high, that it can never be brought hither; and under this Head it was ſaid,</p>
+               <p>That this would put the <hi>Iriſh</hi> upon making Cloth for their own wearing, which would be more prejudicial to <hi>England,</hi> becauſe the Cloth imported from <hi>England</hi> into <hi>Ireland</hi> is of much greater Value than what is exported from <hi>Ireland</hi> to Forreign Parts, the <hi>Engliſh</hi> Cloth being worn there by the Nobility and Gentry.</p>
+               <p>It was further ſaid, That this Bill opens all the Ports in <hi>England</hi> to receive <hi>Iriſh</hi> Wool; and by that Means Wool coming up the Channel in ſight of the <hi>French</hi> Ports, would have an eaſie Opportunity of running in thither: And, <hi>Secondly,</hi> That it being ſo near a Cut over from the North part of <hi>Ireland</hi> to <hi>Scotland,</hi> it would be carried thither, and from thence to Forreign Parts.</p>
+               <p n="2">II. That this would diſcourage the <hi>Engliſh</hi> Intereſt in
+<pb n="2" facs="tcp:106359:3"/>
+                  <hi>Ireland,</hi> and that it ſeem'd not to be well tim'd, after the Diſtreſs the <hi>Iriſh</hi> had lately been in; and that it was the <hi>Engliſh Iriſh</hi> that were chiefly concerned in the Woollen Manufacture there.</p>
+               <p>It was ſaid further, that the Allegations of the Bill were not true, <hi>viz. That great Quantities of the like Manufactures (to thoſe of</hi> England) <hi>have of late been Made, and are daily encreaſing:</hi> And to diſp<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ove the ſaid Allegations, an ac<g ref="char:EOLhyphen"/>count was given, (taken as <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>as ſaid out of the Cuſtom-Houſe Books) to ſhow thow more Woollen Mannfactury was exported out of <hi>Ireland</hi> from 1084. to 1687. than from 1693. to 1696. and th<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> the chiefeſt part thereof was the New Drapery of S<gap reason="illegible" resp="#MURP" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>s and F<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>z<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, and but little Cloth, which was the Old D<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>pe<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y of <hi>England;</hi> and that therefore the Old Drapery was not prejudiced thereby: And an Account was alſo given, how many Yards of Cloth was Imported into <hi>Ireland</hi> from <hi>England</hi> in a Year.</p>
+               <p n="3">III. It was alledged, That this was only the Concern of one place, <hi>viz. Exeter,</hi> and that that ought not to weigh with the Intereſt of the whole Kingdom of <hi>Ireland.</hi>
+               </p>
+               <p>And Notice was taken of a Paper printed for the Bill, and a Liſt of the Names of Perſons lately gone from <hi>Exe<g ref="char:EOLhyphen"/>ter</hi> and <hi>Tiverton</hi> to <hi>Ireland;</hi> and it was ſaid, that ſeveral Matters of Fact in the ſaid printed Papers were falſe, <hi>viz.</hi>
+               </p>
+               <p>The printed Paper aſſerts, that Wool was 50 <hi>per Cent.</hi> cheaper in <hi>Ireland</hi> than <hi>England,</hi> a pound coſting there but 6 <hi>d.</hi> being worth 9 <hi>d.</hi> here, which it was ſaid was a Miſtake, and that it was but 25 <hi>per Cent.</hi>
+               </p>
+               <p>The ſecond thing was about Dying Wares being dear<g ref="char:EOLhyphen"/>er in <hi>England</hi> than <hi>Ireland,</hi> which was denyed; and it was ſaid, that it could not be ſo, becauſe all the Dying Wares was ſent from <hi>England</hi> to <hi>Ireland,</hi> and therefore of Neceſſity they muſt be deareſt in <hi>Ireland.</hi>
+               </p>
+               <pb n="3" facs="tcp:106359:3"/>
+               <p>As to the printed Liſt of the Names of about 150 Perſons lately gone from <hi>Exon</hi> and <hi>Tiverton</hi> to <hi>Ireland,</hi> a Perſon ſaid he knew three of the Names, one where<g ref="char:EOLhyphen"/>of went above twenty years ſince, and the other two a long time agoe.</p>
+               <p>It was agreed, that Spinning the Wool was cheaper in <hi>Ireland</hi> than <hi>England,</hi> but not the Combing and Weaving.</p>
+               <p>And as to Soap, it was ſaid, that but little was uſed in a piece of Stuff, no more than to the Value of 3 <hi>d.</hi> a piece.</p>
+               <p>It was ſaid by a Gentleman, who lived long in <hi>Ireland,</hi> that,</p>
+               <q>
+                  <hi>Anno</hi> 1656. the Woollen Manufacture was attempted to be ſet up by ſome, but they failed in it. 1679. Some again from <hi>Holland</hi> and <hi>England</hi> made another attempt, which alſo miſcarried.</q>
+               <p>But, 1684. It was again attempted, and ſucceeded, as to the New Drapery, but that as to the Old Drapery they can never ſet up that, becauſe they have no Ful<g ref="char:EOLhyphen"/>lers Earth there.</p>
+               <p>It was further ſaid, That, 1ſt. The <hi>Iriſh</hi> muſt bring their Wool to a Market where it will not vend, mean<g ref="char:EOLhyphen"/>ing <hi>England.</hi> Or,</p>
+               <p n="2">2dly. That the Wool being brought hither unwrought, will lower the Price here, and glut the Market, and that will bring down the Rents of <hi>England.</hi>
+               </p>
+               <p>And it was alſo ſaid, That <hi>England</hi> gets much by <hi>Ireland,</hi>
+               </p>
+               <p>And ſeveral <hi>Iriſh</hi> Statutes were quoted, as 13 <hi>H.</hi> 8. <hi>c.</hi> 2. 28 <hi>H.</hi> 8. <hi>c.</hi> 17. and 11 <hi>El. c.</hi> 10. which it was ſaid, were to encourage the Woolen Manufactury there.</p>
+               <p>I will here add alſo the Subſtance of what is contain<g ref="char:EOLhyphen"/>ed in a Print, Entituled, <hi>Some Thoughts on the Bill,</hi> &amp;c. That the Strength of all that can be ſaid on that Sub<g ref="char:EOLhyphen"/>ject
+<pb n="4" facs="tcp:106359:4"/>may be laid together; and tho' it is ſomewhat long, think the Arguments are in ſhort theſe.</p>
+               <p n="1">I. That <hi>England</hi> profits greatly by <hi>Ireland.</hi> Becauſe,</p>
+               <p n="1">1. Near one third part of the Lands of that Kingdom belong to the <hi>Engliſh,</hi> who inhabit here, and have their Rents conſtantly return'd in ready Money.</p>
+               <p n="2">2. Moſt of the Nobility and Gentry ſpend their Eſtates here.</p>
+               <p n="3">3. That <hi>England</hi> ſupplies <hi>Ireland</hi> with moſt of the Com<g ref="char:EOLhyphen"/>modities they conſume; that nine tenths of the People there, that are able to buy it, wear <hi>Engliſh</hi> Woollen Ma<g ref="char:EOLhyphen"/>nufactures, and that <hi>England</hi> receives little from <hi>Ireland,</hi> their Cattle being prohibited, high impoſitions on their Tallow, Leather and Corn, and laſt year the Tonnage and Poundage was doubled on their Linnen and other Manufactures, and ſuch as are ſuffer'd to come, are ab<g ref="char:EOLhyphen"/>ſolutely neceſſary for us, or Materials for our Manu<g ref="char:EOLhyphen"/>factures.</p>
+               <p n="4">4. That what <hi>Ireland</hi> gets by Trade, centers all in <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> and the Trade there is moſtly carried on by <hi>Eng<g ref="char:EOLhyphen"/>liſh</hi> Stocks.</p>
+               <p>And hereupon it is ſaid, that we ſeem to deſire to get ſo much from <hi>Ireland,</hi> that at laſt we may put them out of a condition to pay us any thing.</p>
+               <p>The <hi>Second</hi> general Head is, what was urged at the Lord's Bar, that it may weaken the <hi>Engliſh</hi> Intereſt, ſo as to endanger the Loſs of that Kingdom.</p>
+               <p>And it is ſaid, That it may not neceſſarily follow, that ſo much the more Woollen Manufactures will be made in <hi>England,</hi> as is reſtrained or deſtroy'd in <hi>Ireland,</hi> but that <hi>Holland, France,</hi> &amp;c. may get the Trade <hi>Ireland</hi> looſes, and that what <hi>Ireland</hi> has done, has not leſſened the Woollen Manufacture in <hi>England.</hi>
+               </p>
+               <p>And then he comes, <hi>fol.</hi> 10. to the point, on which the
+<pb n="5" facs="tcp:106359:4"/>Streſs of the Controverſie depends, and that is, whet her the <hi>Iriſh</hi> can ſend their Manufactures cheaper to For<g ref="char:EOLhyphen"/>reign Markets than the <hi>Engliſh,</hi> and this the Author affirms they cannot, becauſe they want numbers of People, and Stocks, and Materials.</p>
+               <p>The Author ſays further, that they make only a ſew Stockings, Stuffs and Frizes, which are different from thoſe made in <hi>England,</hi> and yet they ſend but few abroad, and that becauſe they pay leſs Wages in <hi>Ireland</hi> than here, they are not ſo likely to drain our People away, and that none go there but ſuch as are neceſſi<g ref="char:EOLhyphen"/>tated.</p>
+               <p>He argues, That thoſe who are in the Woollen Ma<g ref="char:EOLhyphen"/>nufacture there, will be forced to go to other Coun<g ref="char:EOLhyphen"/>tries, if this Bill paſs.</p>
+               <p>And the laſt doubt is, whether the Law, if made, would take effect, it being the Intereſt of all <hi>Ireland</hi> to defeat it. And then again, the Bugbears of <hi>Scotland</hi> and <hi>France</hi> are ſet up. And after all, the Author propoſes a gentler Method of doing the Work, and that is by ſecret Diſ<g ref="char:EOLhyphen"/>couragements, and ſo to let it decline by degrees.</p>
+            </div>
+            <div type="part">
+               <head>For the <hi>BILL,</hi> and in Anſwer to the <hi>Objections</hi> to it, it was ſaid.</head>
+               <p n="1">I. It was acknowledged, That the Duties on Woollen Manufactures from <hi>Ireland</hi> are at preſent high, the Sub<g ref="char:EOLhyphen"/>ſidy being lately doubled, which will ſoon expire, and then they will come near to a level with the <hi>Engliſh,</hi> ſome a little over, and ſome under; and yet notwith<g ref="char:EOLhyphen"/>ſtanding, we find by daily experience, great Quantities of <hi>Iriſh</hi> Frizes, Broad cloth napt, and Stuffs, imported into <hi>England.</hi>
+               </p>
+               <p>If the prohibition put the <hi>Iriſh</hi> upon making Cloath
+<pb n="6" facs="tcp:106359:5"/>for ther own wearing, inſtead of what now they take from <hi>England,</hi> it ſeems then, the <hi>Iriſh</hi> can take to make<g ref="char:EOLhyphen"/>ing Cloath if they pleaſe, and no doubt of it, and the <hi>Engliſh</hi> will never deny them the liberty of making what they themſelves wear, but have juſt reaſon to fear that by degrees they will not only do that, but beat the <hi>Engliſh</hi> quite out of their Trade to Forreign Mar<g ref="char:EOLhyphen"/>kets, which muſt be the natural conſequence of their making the Woollen Goods ſo much cheaper than we can.</p>
+               <p>That this Bill opens all the Ports of <hi>England</hi> to re<g ref="char:EOLhyphen"/>ceive <hi>Iriſh</hi> Wool, is true, and with great reaſon, that one place may have it on as eaſie terms as others, o<g ref="char:EOLhyphen"/>therwiſe the charge of Land-carriage, and other Charges and ill-conveniencies are ſo great, that it makes 10 <hi>per Cent.</hi> difference between places no further diſtant than <hi>Biddeford</hi> and <hi>Exon.</hi> And whileſt all our Plantation Goods, and particularly Tobacco, which pays ſo high a Duty, come up the Channel, and Wool is ſent from <hi>South<g ref="char:EOLhyphen"/>ampton</hi> to <hi>Jerſey</hi> and <hi>Guernſey,</hi> and may alſo be ſent from any one Port to any other Port in <hi>England,</hi> and all un<g ref="char:EOLhyphen"/>der no other Security than Bond given to diſcharge in <hi>England,</hi> there can be no greater danger here, nay much leſs, ſeeing by this Bill it is provided, that the Bonds for Security ſhall be given by ſufficient Perſons, reſiding in or near the place where the Goods are ſhipped, and ſhall not be granted over to any Perſon, and that a particular account from time to time ſhall be tranſmit<g ref="char:EOLhyphen"/>ted to <hi>England</hi> of all the Wool ſhipt, and the Ships and Maſters Names, and to whom, and at what Port conſigned.</p>
+               <p>As to what was ſaid, This would diſcourage the <hi>En<g ref="char:EOLhyphen"/>gliſh</hi> Intereſt in <hi>Ireland,</hi> it was anſwered,</p>
+               <p n="1">1. That by their own Confeſſion, the Woollen Manu<g ref="char:EOLhyphen"/>factury
+<pb n="7" facs="tcp:106359:5"/>has not long been ſet up in <hi>Ireland,</hi> and the <hi>Engliſh</hi> Intereſt was preſerved before that time, and no doubt may be ſo ſtill, without drawing ſo many People from <hi>England</hi> as would certainly leave it, if the Wool<g ref="char:EOLhyphen"/>len Manufacture goes on there; and it is better that a good ſtrength remains in one Kingdom, than to divide it into both, by which means neither may be ſtrong enough to reſiſt a Forreign Enemy.</p>
+               <p n="2">2. Tho' the Woollen Manufactury be ſuppreſs'd there, they have the ſame means of Improvement they had before; nay, greater, ſince our <hi>Weſt Indies</hi> take off ſo great Quantities of their Proviſions, Horſes and Servants, which makes a compenſation in ſome meaſure for the prohibiting their Cattle from coming into <hi>England.</hi>
+               </p>
+               <p n="3">3. The Soyl is very well adapted to produce Hemp and Flax, and ſo to eſtabliſh the Linnen Manufactury, which would find all due Encouragement from <hi>England,</hi> and employ great numbers of People, and ſo would the Fiſhery, which might be carried on on the <hi>Iriſh</hi> Coaſt to great advantage.</p>
+               <p n="4">4. They ſend great Quantities of Corn, Beef, Hides, Tallow, Butter, <hi>&amp;c.</hi> to Forreign Markets, and will ne<g ref="char:EOLhyphen"/>ver want means of improving their Countrey, and en<g ref="char:EOLhyphen"/>creaſing their People, without giving ſo great a Wound to <hi>England.</hi>
+               </p>
+               <p>As to the Truth of the Allegations in the Bill:</p>
+               <p n="1">1. The Accounts they themſelves gave, were a ſuf<g ref="char:EOLhyphen"/>ficient Proof of them; for by them it appeared, great Quantities of New-draperies were exported (which altho' they endeavoured to ſhrowd under the Name of Frizes, yet they are known to be Bays, Perpetuano's and Ser<g ref="char:EOLhyphen"/>ges) ſuch as are made in divers parts of <hi>England,</hi> and a Witneſs on Oath declared, that the <hi>Iriſh</hi> Serges were preferred to the <hi>Engliſh</hi> in <hi>Holland,</hi> and were in great
+<pb n="8" facs="tcp:106359:6"/>demand at the ſame time that <hi>Engliſh</hi> Serges lay on hand, and would not ſell.</p>
+               <p n="2">2. That the Woollen Manufactury had as yet increaſed to no greater a height, (was ſaid to be, as the Truth is) becauſe of the late War, which made Exportation from <hi>Ireland</hi> unſafe; and that Kingdom not being well ſettled, Perſons were unwilling to adventure their Stocks, and to enlarge their Trades, but that nothing can hin<g ref="char:EOLhyphen"/>der their encreaſe now, if Peace continues, but this Bill.</p>
+               <p>Further it was ſaid, That there was no doubt, but by degrees they would improve and encreaſe in their making of Cloth, for that all things grew to perfection by degrees, as the Woollen Manufacture did heretofore in <hi>England,</hi> and making of Lute-ſtrings and Allamodes was coming to it, and that nothing could hinder this in <hi>Ireland,</hi> having there the ſame Materials, and by degrees would have Workmen from <hi>England</hi> ſufficient, and a good profit ariſing by it, Fullers Earth would be found there, or ſent from hence, or they may do as they do in <hi>Hol<g ref="char:EOLhyphen"/>land</hi> and <hi>France,</hi> where they have no Fullers Earth, and yet make as fine Cloth as we do in <hi>England.</hi>
+               </p>
+               <p n="3">III. It was ſaid, That this was not the Concern of <hi>Exeter</hi> alone, but of all <hi>England,</hi> for there were preſent<g ref="char:EOLhyphen"/>ed to their Lordſhips at leaſt 18 Petitions from ſeveral parts of <hi>England,</hi> as from <hi>Norwich, Colcheſter, Bocking, London, Sudbury,</hi> beſides thoſe from <hi>Somerſet</hi> and <hi>Devon,</hi> who thought themſelves immediately concerned.</p>
+               <p n="2">2. All the parts of <hi>England</hi> are affected, where Wool is produced, in the price of their Wool, which would ſoon be reduced to a very low rate, when the Manu<g ref="char:EOLhyphen"/>factury of it is decay'd.</p>
+               <p n="3">3. The encreaſe of the Woollen Manufacture in <hi>Ire<g ref="char:EOLhyphen"/>land</hi> would draw People from all parts of <hi>England,</hi> who conſume the Product of the Land.</p>
+               <pb n="9" facs="tcp:106359:6"/>
+               <p n="4">4. The able working People of <hi>England</hi> going over, would leave the Weak and Aged a Charge to the Pa<g ref="char:EOLhyphen"/>riſhes, and on both accounts the Rents of <hi>England</hi> muſt fall conſiderably.</p>
+               <p n="5">5. That the Woollen Manufacture of <hi>England</hi> export<g ref="char:EOLhyphen"/>ed, was above half the Value of the whole Exportation, and that being loſt muſt needs alſo abate the Value of all the Lands in <hi>England.</hi>
+               </p>
+               <p>As to the Objections made to the Paper printed for the Bill.</p>
+               <p>And, <hi>Firſt,</hi> About Dying Wares being cheaper in <hi>England</hi> than <hi>Ireland,</hi> it was ſaid, 1. That ſuch Goods may be brought from any part of <hi>Europe, Aſia</hi> or <hi>Africa,</hi> directly to <hi>Ireland,</hi> and the few ſorts which come from <hi>America</hi> to <hi>England,</hi> as Logg-wood, Indico, <hi>&amp;c.</hi> draw back great part of the Cuſtom, when exported to <hi>Ire<g ref="char:EOLhyphen"/>land;</hi> particularly Logg-wood, ſo much as that it may be afforded cheaper there than here; and altho' as yet Dy<g ref="char:EOLhyphen"/>ing Wares do not come in very great Quantities directly from other Parts to <hi>Ireland,</hi> yet they will do ſo, as the Woollen Manufactury there encreaſes. And it might have been added, that there is lately gone from <hi>Holland</hi> to <hi>Ireland</hi> a great Quantity of Red-wood, which is brought thither from <hi>Guinny</hi> cheap, altho' in <hi>England</hi> it is at a very high Price.</p>
+               <p>As to the Objection, that Wool ſelling for 6 <hi>d. per lib.</hi> in <hi>Ireland,</hi> and at the ſame time in <hi>England</hi> for 9 <hi>d. per lib.</hi> was but 25 <hi>per Cent.</hi> difference, Arithmetick determines that; for if what coſt in <hi>Ireland</hi> 100 <hi>l.</hi> ſells in <hi>England</hi> for 150 <hi>l.</hi> that is plainly 50 <hi>per Cent.</hi> odds, and 6 <hi>d.</hi> to 9 <hi>d.</hi> bears the ſame proportion.</p>
+               <p>The Names of three Perſons amongſt 140 in the Print<g ref="char:EOLhyphen"/>ed Liſt were picked out; one whereof, as their Witneſs ſaid, went a way 20 Years ſince; but being asked, he could
+<pb n="10" facs="tcp:106359:7"/>not ſay but there might be others of the ſame Names gone ſince, and he owned it was ſeven Years ſince he left <hi>Exon.</hi>
+               </p>
+               <p>About the Workmanſhip it was own'd, that the Spin<g ref="char:EOLhyphen"/>ing was much cheaper in <hi>Ireland;</hi> and tho' it was ſaid, that that was the leaſt part of the Work, yet the Clothiers know, that it is above half: And as the Manufacture en<g ref="char:EOLhyphen"/>creaſes, the reſort of People skill'd in it will encreaſe; and <hi>Ireland</hi> being ſo cheap a Countrey, when it is in Peace, the Workmanſhip of all kinds muſt be cheap too. The Perſon that Witneſſed at firſt that but three Penny worth of Soap was uſed in a Serge, afterwards owned himſelf miſtaken, and in truth there is above three pound of Soap uſed in a Serge, which is worth about One Shil<g ref="char:EOLhyphen"/>ling.</p>
+               <p>From the Account given of the firſt Attempts that fail<g ref="char:EOLhyphen"/>ed to ſettle the Woollen Manufacture in <hi>Ireland,</hi> in 1656. and 1679, and that which afterwards did ſucceed in 1684. it was obſerved, That all New Manufactures are begun with ſome difficulty, as the Woollen Manufacture it ſelf formerly in <hi>England,</hi> and the Manufacture of Luteſtring and Allamodes lately here: And tho' at firſt it ſucceed<g ref="char:EOLhyphen"/>ed not in <hi>Ireland,</hi> even in the New Drapery, yet after<g ref="char:EOLhyphen"/>wards it took effect, and to that Degree, that a Witneſs on Oath affirmed, that they make as good Serges in <hi>Ire<g ref="char:EOLhyphen"/>land</hi> as any where in <hi>England;</hi> and tho' as yet they are not come to perfection in Fine Cloth, nothing can hinder them from it in time, having, as before was ſaid, the ſame Materials and Work-men, and all, ſo much cheaper than we.</p>
+               <p>It was acknowledged by a Gentleman againſt the Bill, that bringing the <hi>Iriſh</hi> Wool hither would not prejudice the Price of <hi>Engliſh</hi> Wool; and it is not to bring it to a Market where there is no Vent; for it always did, and
+<pb n="11" facs="tcp:106359:7"/>always will find Vent here; and <hi>England</hi> will be much the better Market for it than <hi>Scotland,</hi> though it ſhould even be permitted to go there.</p>
+               <p>As to the Gains <hi>England</hi> makes by <hi>Ireland,</hi> the clear Gains are not much, and <hi>England</hi> would pay too dear to part with their Woollen Manufactury for them: And whoever pleaſes to look into the <hi>Iriſh</hi> Statutes quoted, will find that they were only to prevent the Exportation of Wool, and not to encourage the Exportation of Cloth to Forreign Markets.</p>
+               <p>And now to give Anſwer to ſo much of the printed Pa<g ref="char:EOLhyphen"/>per, Entituled, <hi>Some Thoughts,</hi> &amp;c. as is not anſwered before:</p>
+               <p>The Author has written with much Art, and ſaid a great deal that does not immediately concern the Queſti<g ref="char:EOLhyphen"/>on, and but ſlightly touched what does.</p>
+               <p>And <hi>Firſt,</hi> as to the Profit <hi>England</hi> gets by <hi>Ireland.</hi>
+               </p>
+               <p n="1">1. <hi>England</hi> had need get ſomething where it has been at ſo vaſt Expence of Blood and Treaſure, to deliver and protect <hi>Ireland.</hi>
+               </p>
+               <p n="2">2. This was got by <hi>Ireland,</hi> before the Woollen Ma<g ref="char:EOLhyphen"/>nufacture was ſet up in <hi>Ireland,</hi> and will be after that is ſuppreſs'd there.</p>
+               <p n="3">3. If it ſhould get by the Eſtabliſhment or Continu<g ref="char:EOLhyphen"/>ance of the Woollen Manfactury, which muſt unavoida<g ref="char:EOLhyphen"/>bly ruin our own, by getting a penny we ſhould looſe a pound.</p>
+               <p>If moſt of their Nobility and Gentry ſpend their Eſtates here, it is becauſe they live where they like beſt, but as <hi>Ireland</hi> flouriſhes more and grows greater, as it muſt do if they remain in Peace, and ſuch a Bill does not paſs, that Humour by degrees will alter, and they will have every thing as much to their Content
+<pb n="12" facs="tcp:106359:8"/>and Pleaſure there as here, and now they go as much to Forreign Parts as <hi>England.</hi>
+               </p>
+               <p>That <hi>England</hi> ſupplies <hi>Ireland</hi> with moſt of the Com<g ref="char:EOLhyphen"/>modities they conſume is affirmed, and formerly it was ſo, but before the War, the Caſe began to alter, and they were more ſupply'd by the return of their own Product and Manufactures ſent abroad then from <hi>England,</hi> and if a Peace continues there, and they go on with their Woollen Manufacture, they will ſoon want nothing from <hi>England,</hi> but it's able working People and Manufacturers and Seamen.</p>
+               <p>And altho' <hi>England</hi> has prohibited their Cattle, yet a great deal of <hi>Tallow,</hi> &amp;c. comes hither, and <hi>Anno</hi> 7th. and 8th. of this King, An Act was made here to en<g ref="char:EOLhyphen"/>courage the Linneen Manufacture of <hi>Ireland,</hi> and there<g ref="char:EOLhyphen"/>in it was Enacted, <hi>That it might be lawful to bring any ſorts of Hemp or Flax, and all the Production thereof as Thread, Yarn and Linnen of the Growth and Manufacture of Ireland free from all manner of Cuſtoms, Duties and Im<g ref="char:EOLhyphen"/>poſitions whatſoever.</hi> It is true indeed, that the next year the Act which doubled the Subſidies of Tonnage and Poundage, did by an overſight (as is ſuppoſed) com<g ref="char:EOLhyphen"/>prehend Linnen, <hi>&amp;c.</hi> from <hi>Ireland,</hi> which by the Wiſ<g ref="char:EOLhyphen"/>dom of the Nation may be rectified.</p>
+               <p>It is aſſerted, that the Trade in <hi>Ireland</hi> is carried on moſtly by <hi>Engliſh</hi> Stocks, but the Author is miſinformed in that particular, and will ſoon find many Forreigners ſend their Stocks thither when things are ſetled, as they did before the War, and if they were <hi>Engliſh</hi> Stocks, yet that would be a great deteriment to <hi>England,</hi> to have the Stock drawn out of Trade here to be employ<g ref="char:EOLhyphen"/>ed there.</p>
+               <p>Concerning the weaking the <hi>Engliſh</hi> Intereſt, it has had an Anſwer, and further it may be ſaid, that the
+<pb n="13" facs="tcp:106359:8"/>
+                  <hi>Iriſh</hi> themſelves ſay the Woollen Manufacture there, for Forreign Exportation is ſmall, and if we Prohibit that, they will in all likelyhood make the Cloth they wear themſelves, which is much more, Where then is the weakning them? It is not fit that they ſhould have an Acceſſion of Strength by the Diminution of our own, who muſt ſupport our ſelves and them too.</p>
+               <p>It is evident that as the <hi>Iriſh</hi> make and vend more Woollen Goods abroad, we ſhall vend the leſs, becauſe all Traders to Forreign Parts know, that the Goods they make are in imitation of Ours, and they are wiſe enough to ſend ſuch Goods as they find are Eſteemed and will Sell; and ſuch the <hi>Engliſh</hi> make and ſend; and the going off of many of our Woollen Manufactu<g ref="char:EOLhyphen"/>rers to <hi>Ireland,</hi> is too convincing a Proof to be denied, that the increaſe in one Kingdom muſt be the decreaſe of the other.</p>
+               <p>And now the Author of <hi>Some Thoughts,</hi> &amp;c. is come to the main and indeed the only Point, on which the Controverſie turns. And that is, Whether in <hi>Ireland</hi> they can make the ſame Woollen Manufactury cheap<g ref="char:EOLhyphen"/>er than in <hi>England;</hi> and this the ſaid Author, Deter<g ref="char:EOLhyphen"/>mines in the Negative, but leaves us to ſeek the Proof of it where we can find it; and ſeeks to cloud the Matter with an obſcure way of Arguing but ſuch as every one muſt ſee thorough, eſpecially ſuch diſcern<g ref="char:EOLhyphen"/>ing Judgments as the Matter is now before. To make a long Notional Argument to prove that two and two makes four, or any other certain Propoſition in Arith<g ref="char:EOLhyphen"/>metick; or to argue againſt the Truth of Addition or Subſtraction of Sums without Numeration; is equally abſurd. And therefore the plain Anſwer to that, is the account which follows.</p>
+               <pb n="14" facs="tcp:106359:9"/>
+               <p>
+                  <table>
+                     <row>
+                        <cell role="label"> </cell>
+                        <cell role="label" cols="3">
+                           <hi>In</hi> England.</cell>
+                        <cell role="label"> </cell>
+                        <cell role="label" cols="3">
+                           <hi>In</hi> Ireland.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>
+                           <hi>l.</hi>
+                        </cell>
+                        <cell>
+                           <hi>s.</hi>
+                        </cell>
+                        <cell>
+                           <hi>d.</hi>
+                        </cell>
+                        <cell> </cell>
+                        <cell>
+                           <hi>l.</hi>
+                        </cell>
+                        <cell>
+                           <hi>s.</hi>
+                        </cell>
+                        <cell>
+                           <hi>d.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>A piece of Serge of about</hi> 40 s. <hi>price, takes up</hi> 24 lib. <hi>of Wool, at</hi> 9 d. <hi>per</hi> lib.</cell>
+                        <cell>00</cell>
+                        <cell>18</cell>
+                        <cell>00</cell>
+                        <cell>
+                           <hi>at</hi> 6 d. <hi>per</hi> lib.</cell>
+                        <cell>00</cell>
+                        <cell>12</cell>
+                        <cell>00</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>The</hi> 24 lib. <hi>of Wool when Combed, makes</hi> 15 lib. <hi>for the Spinner, at</hi> 9 d. <hi>per</hi> lib.</cell>
+                        <cell>00</cell>
+                        <cell>11</cell>
+                        <cell>03</cell>
+                        <cell>
+                           <hi>at</hi> 5 d. <hi>per</hi> lib.</cell>
+                        <cell>00</cell>
+                        <cell>06</cell>
+                        <cell>03</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Soap uſed</hi>
+                        </cell>
+                        <cell>00</cell>
+                        <cell>01</cell>
+                        <cell>00</cell>
+                        <cell> </cell>
+                        <cell>00</cell>
+                        <cell>00</cell>
+                        <cell>08</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Combing and Weaving rec<g ref="char:EOLhyphen"/>kon the ſame in both places</hi>
+                        </cell>
+                        <cell>00</cell>
+                        <cell>09</cell>
+                        <cell>00</cell>
+                        <cell> </cell>
+                        <cell>00</cell>
+                        <cell>09</cell>
+                        <cell>00</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>1</cell>
+                        <cell>19</cell>
+                        <cell>03</cell>
+                        <cell> </cell>
+                        <cell>0<gap reason="illegible" resp="#MURP" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                        </cell>
+                        <cell>07</cell>
+                        <cell>11</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>So that a Piece of Serge which coſts in <hi>Ireland</hi> but <hi>l.</hi> 1.7.11. coſts in <hi>England l.</hi> 1.19.3. which is 40 <hi>per cent.</hi> difference beſides the Exchange.</p>
+               <p>And if the Advocates for the Woollen Manufactury in <hi>Ireland</hi> would ſucceed, <hi>They Ought to diſprove one of theſe two Points.</hi>
+               </p>
+               <p n="1">1. That either this Account is Falſe, and in what Particulars; Or,</p>
+               <p n="2">2ly. That if the ſame Sorts of Woollen Manufactury are made in <hi>Ireland</hi> 40 <hi>l. per Cent.</hi> cheaper than in <hi>England,</hi> and thence Exported into Forreign Parts: That For<g ref="char:EOLhyphen"/>reigners will for the ſake of <hi>England,</hi> Buy Engliſh at dearer Prizes, or that Engliſh Merchants, will to their loſs ſend Engliſh rather than Iriſh. But theſe are ſo ſelf-evident, that they may as well attempt to prove it is Night at Noon-Day. And therefore let the Conſe<g ref="char:EOLhyphen"/>quence be what it will to <hi>Ireland,</hi> it can never be ſup<g ref="char:EOLhyphen"/>poſed, that the Lords or Commoners whoſe Eſtates, and Families, and Intereſts are in <hi>England,</hi> will ever yield
+<pb n="15" facs="tcp:106359:9"/>this Point to the <hi>Iriſh.</hi> The Caſe with <hi>England</hi> is not the ſame as formerly: Heretofore our Neighbours had no great Strength at Sea; and then Forreign Trade which is the Foundation and Maintenance of our Ship<g ref="char:EOLhyphen"/>ping and Cuſtoms was not of ſuch abſolute neceſſity as now it is. The <hi>French</hi> and the <hi>Dutch</hi> are now grown Powerfull in Shipping and Sea Force, and <hi>England</hi> being an Iſland muſt at all times be able to cope with all its Neighbours in Strength at Sea, or it will ſoon become a Prey to Forreigners. And this can be done by no other means but the moſt vigorous Promotion of our Forreign Trade; and the Woollen Manufacture is ſo great and eſſential a part of it, and that on which all the reſt Depends, That with ſubmiſſion it ſeems to be no Policy, ſo much as to connive at the leaſt Diminu<g ref="char:EOLhyphen"/>tion, or to allow of the leaſt Diſcouragement of it.</p>
+               <p>And whileſt the <hi>Iriſh</hi> did formerly, and may ſtill go on with Tillage and other Trades greatly to their ad<g ref="char:EOLhyphen"/>vantage, without the Linnen Manufacture, and eſpecial<g ref="char:EOLhyphen"/>ly whileſt <hi>England</hi> ſeems to be inclined by all ways and means, to encourage their Proceeding upon the Linnen-Manufacture, they will have no reaſon to complain.</p>
+               <p>The Author ſays, <hi>Ireland</hi> is not likely to drain <hi>Eng<g ref="char:EOLhyphen"/>land</hi> of People, becauſe they pay leſs Wages there, as the Promoters of the Bill aſſert, but if the Advice of a very ingenious Gentleman who has written of Trade, were follow'd, to reckon by Political Arithmetick, this Au<g ref="char:EOLhyphen"/>thor would have ſeen where his Error lay, in not rec<g ref="char:EOLhyphen"/>koning, that if at the ſame time that People have leſs Wages in <hi>Ireland</hi> they ſpend much leſs, and ſo can lay up more at the years end, then it would be Encourage<g ref="char:EOLhyphen"/>ment enough to invite People there, where they can get moſt.</p>
+               <p>That thoſe who are in the Manufactury there, will
+<pb n="16" facs="tcp:106359:10"/>be forced to go to other Countries, ſeems not likely, for the reaſon the Author himſelf gives elſewhere, that they will turn to making of Cloth for their own wear<g ref="char:EOLhyphen"/>ing in <hi>Ireland,</hi> or if they do, there is no Country where they can find ſo great Encouragement as to return to their Native Country.</p>
+               <p>The probability of their Wool going to <hi>Scotland</hi> or <hi>France,</hi> is before anſwered, and to prevent that, if this Act be not ſtrict enough, it is a good Foundation, and a ſtricter may in time be made, and the Government there being ſo much under the Direction and Influence of <hi>England,</hi> there is no doubt but the Laws will be ex<g ref="char:EOLhyphen"/>ecuted there as well as here, and I believe by degrees, the <hi>Rumny-Marſh</hi> People will be weary of their Conni<g ref="char:EOLhyphen"/>vance.</p>
+               <p>The Propoſal which the Author makes of doing the Work more gently by ſecret Diſcouragements, ſeems cruel and unjuſt: Cruel, to ruin People under the pre<g ref="char:EOLhyphen"/>tence of ſhowing them Kindneſs, and unjuſt to do it where there is no Publick and known Law to give them notice, whereby they may order their Affairs accord<g ref="char:EOLhyphen"/>ingly.</p>
+               <p>
+                  <hi>All which is Humbly Submitted.</hi>
+               </p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="postscript">
+            <pb facs="tcp:106359:10"/>
+            <head>Poſtſcript.</head>
+            <p>WHereas a Witneſs againſt the Bill affirmed on Oath, That the firſt Man named in the Printed Liſt, <hi>viz. Thomas Allen,</hi> went away to <hi>Ireland</hi> at leaſt twenty years ſince, upon Enquiry it is found, That he went thither about twelve years agoe, and not for Debt, and when the War broke out in <hi>Ireland</hi> he came back to <hi>England,</hi> and about a year ſince returned to <hi>Ireland</hi> again, and has ſent for his Wife and Family, who are ſince gone thither to him. — and <hi>Henry How,</hi> whom their Witneſs ſaid went away in 1680. or 1681. went away but about four Months ſince from <hi>Gullump<g ref="char:EOLhyphen"/>ton.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
